@@ -1,0 +1,11 @@
+{
+    "persons": [
+        { "name": "jolil", "age": 25, "hometown":"dhaka", "married": false },
+        
+        {"name": "rofik", "age": 35, "hometown": "chattogram", "married": true }, 
+
+        {"name": "ayon", "age": 27, "hometown": "chandpur", "married": false }, 
+
+        {"name": "rahat", "age": 34, "hometown": "chattogram", "married": true }
+    ]
+}
